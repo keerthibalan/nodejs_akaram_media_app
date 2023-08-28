@@ -1,3 +1,6 @@
+# nodejs_akaram_media_app
+This repository is responsible for building akaram media front end app 
+
 # Getting Started with Create React App
 
 Refer the React app documentation
@@ -29,3 +32,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+
+## Install multer
+Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency.
+
+npm i multer
